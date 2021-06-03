@@ -4,4 +4,4 @@ main: whybrawl.WorldGenerator.Main
 authors: [ Whybrawl ]
 description: World Generator from WhyBrawl Team
 website: whybrawl.ru
-load: startup
+load: STARTUP
