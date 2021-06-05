@@ -1,2 +1,2 @@
-# tcraft-core
-Main plugin for TCraft!
+# WorldGenerator
+World generator plugin by timaaos, that using in WhyBrawl's Server
